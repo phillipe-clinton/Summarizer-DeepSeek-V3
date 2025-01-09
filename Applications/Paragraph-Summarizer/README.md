@@ -15,14 +15,14 @@ A command-line interface tool that leverages DeepSeek-V3's powerful language mod
 
 ## Installation
 1. Clone this repository:
-git clone https://github.com/phillipe-clinton/Summarizer-DeepSeek-V3.git
-cd DeepSeek-V3/applications/text_summarizer
+*git clone https://github.com/phillipe-clinton/Summarizer-DeepSeek-V3.git
+*cd DeepSeek-V3/applications/text_summarizer
 
-2. Install required packages:
+3. Install required packages:
 pip install -r requirements.txt
 text
 
-3. Replace the API_KEY in summarizer.py with your DeepInfra API key
+4. Replace the API_KEY in summarizer.py with your DeepInfra API key
 
 ## Usage
 Run the summarizer:
