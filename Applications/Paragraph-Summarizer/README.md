@@ -15,7 +15,7 @@ A command-line interface tool that leverages DeepSeek-V3's powerful language mod
 
 ## Installation
 1. Clone this repository:
-git clone https://github.com/yourusername/DeepSeek-V3.git
+git clone https://github.com/phillipe-clinton/Summarizer-DeepSeek-V3.git
 cd DeepSeek-V3/applications/text_summarizer
 
 2. Install required packages:
