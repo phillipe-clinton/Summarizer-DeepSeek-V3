@@ -1,0 +1,24 @@
+Example 1:
+Input (50 tokens):
+AIS is intended, primarily, to allow ships to view marine traffic in their area and to be seen by that traffic. This requires a dedicated VHF AIS transceiver that allows local traffic to be viewed on an AIS enabled chartplotter or computer monitor while transmitting information about the ship itself to other AIS receivers.
+
+Output:
+AIS enables ships to view and be visible to marine traffic through VHF transceivers and chartplotters.
+
+-------------------
+
+Example 2:
+Input (30 tokens):
+Machine learning is a branch of artificial intelligence that focuses on building applications that learn from data and improve their accuracy over time without being programmed to do so. It is based on the idea that systems can learn from data, identify patterns, and make decisions with minimal human intervention.
+
+Output:
+Machine learning enables applications to learn and improve from data with minimal human intervention.
+
+-------------------
+
+Example 3:
+Input (40 tokens):
+The photosynthesis process is how plants convert light energy into chemical energy. This process takes place in the chloroplasts of plant cells, specifically using chlorophyll pigments that absorb light energy. The process converts carbon dioxide and water into glucose and oxygen.
+
+Output:
+Photosynthesis converts light energy into chemical energy, producing glucose and oxygen from CO2 and water in plant chloroplasts.
